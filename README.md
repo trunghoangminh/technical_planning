@@ -6,6 +6,7 @@
 ### 4. Spring Web MVC
 ### 5. Spring Web Service
 ### 6. Spring JPA, Hibernate, JDBC
+### 7. EJB
 
 ## II. Python
 ### 1. Python Basic
@@ -13,19 +14,23 @@
 ### 3. Python Automation testing
 ### 4. Python Data Scientist
 
-## III. Shell Script
+## III. Linux
+### 1. Understand Linux structure
+### 2. Shell Script
 
-## III. Web front-end
+## IV. Web front-end
 ### 1. HTML/HTML5
 ### 2. CSS/CSS3
 ### 3. JavaScript/JQuery
-### 4. AngularJS
-### 5. TypeScript(Angular 2/Angular4)
+### 4. Responsive(Bootstrap)
+### 5. AngularJS
+### 6. TypeScript(Angular 2/Angular4)
 
-## IV. English(very important)
+## V. English(very important)
 ### 1. Reading
 ### 2. Writing
 ### 3. Listening
 ### 4. Speaking
 
-## V. Cross platform - Mobile App(in the future)
+## VI. Cross platform - Mobile App(in the future)
+## VII. C/C++ embedded(in the future)
