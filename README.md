@@ -1,23 +1,23 @@
 # Technical Planning
 ## I. Java
 ### 1. Java Core Basic
-[x] Class
-[x] Object
-[x] Interface
-[x] Access modifier
-[x] Abstraction
-[x] Inheritance
-[x] Polymorphism
-[x] Encapsulation
+- [x] Class
+- [x] Object
+- [x] Interface
+- [x] Access modifier
+- [x] Abstraction
+- [x] Inheritance
+- [x] Polymorphism
+- [x] Encapsulation
 ### 2. Java Core Advance
-[x] Collection frameworks
-[x] I/O
-[ ] Stream API
-[ ] NIO frameworks
-[ ] Concurrency
-[ ] Networking
-[ ] Database
-[ ] JMX
+- [x] Collection frameworks
+- [x] I/O
+- [ ] Stream API
+- [ ] NIO frameworks
+- [ ] Concurrency
+- [ ] Networking
+- [ ] Database
+- [ ] JMX
 ### 3. Spring Core
 ### 4. Spring Web MVC
 ### 5. Spring Web Service
